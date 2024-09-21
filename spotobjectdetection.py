@@ -407,7 +407,3 @@ from google.colab import files
 
 files.download('/content/custom_model_lite.zip')
 
-!apt-get install git
-
-!git config --global user.name "Douaa"
-!git config --global user.email "douaaghezali17@gmail.com"
