@@ -411,6 +411,3 @@ files.download('/content/custom_model_lite.zip')
 
 !git config --global user.name "Douaa"
 !git config --global user.email "douaaghezali17@gmail.com"
-
-#!git clone https://github.com/Medical-Intelligent-Devices/Trained-Object-Detection-Model-.git
-!git clone https://Douaa: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@github.com/Medical-Intelligent-Devices/Trained-Object-Detection-Model-.git
